@@ -1,0 +1,10 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+AE1,PinHeader_1x01_P2.54mm_Vertical,1,Antenna,
+D1,LED_D3.0mm_Horizontal_O1.27mm_Z2.0mm_IRBlack,1,LED,
+J1,JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical,1,Conn_01x04,
+M1,RFID-RC522,1,RFID-RC522,RFID-RC522
+SW1,PinSocket_1x02_P2.54mm_Vertical,1,SW_DIP_x01,
+U1,RF69HCW,1,~,
+U2,Vishay_CAST-3Pin,1,VS1838B,
+U3,Battery charger,1,~,
+U4,MODULE_DFR0654,1,DFR0654,
